@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">KilnSion</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="login_header">Login Time!</string>
+    <string name="kiln_domain">Kiln Domain (example.kiln.com)</string>
+    <string name="kiln_username">Kiln Username</string>
+    <string name="kiln_password">Kiln Password</string>
+    <string name="login_btn">Login</string>
+</resources>
